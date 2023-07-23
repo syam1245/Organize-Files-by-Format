@@ -24,6 +24,7 @@ Run the Script: Open a terminal or command prompt, navigate to the directory con
 and execute the following command:
 
 sort_files_by_extension.py
+<code>driver.find_elements(By.TAG_NAME, "input")</code>
 
 Observe Progress
 The script will display the progress of the file organization, indicating the percentage of completion. The files will be moved into their respective format folders concurrently, making the process efficient.
