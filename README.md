@@ -25,14 +25,14 @@ and execute the following command:
 
 sort_files_by_extension.py
 
-# Observe Progress
+Observe Progress
 The script will display the progress of the file organization, indicating the percentage of completion. The files will be moved into their respective format folders concurrently, making the process efficient.
 View Logs and Results: After the script completes execution, you will find the organized files in their respective format folders within the provided folder path. Any errors encountered during the process will be logged in the organize_files_errors.log file.
 
 # Precautions and Considerations
 When using the "Organize Files by Format" script, keep the following points in mind:
 
-# Backup Important Files
+Backup Important Files
 Before running the script, make sure you have a backup of any critical files in the target folder. While the script aims to organize files without data loss, unexpected issues may occur.
 
 Sorting Order Customization: If you need to sort files within each format folder based on specific criteria, customize the sorting_order function accordingly. Incorrect sorting functions might lead to unexpected results.
