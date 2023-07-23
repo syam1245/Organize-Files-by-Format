@@ -2,7 +2,7 @@
 Overview
 The "Organize Files by Format" script is a Python program designed to help you automatically organize files in a given folder based on their file extensions. It uses multithreading to efficiently move files into folders named after their corresponding file formats. The script also provides the option to sort files within each format folder using a custom sorting order if required.
 
-#**Purpose**
+Purpose
 The primary purpose of this program is to streamline the process of organizing files in a folder, especially when you have a large number of files with various file extensions. By running this script, you can achieve a well-organized folder structure where files are categorized based on their formats, making it easier to locate and manage files.
 
 How to Use
